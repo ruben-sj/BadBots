@@ -1,6 +1,6 @@
 Bad Bots
 
-A small student project originally delivered for DATA2410 (Networking and Distributed Systems), Spring 2021.
+A small student project originally delivered for DATA2410, Spring 2021.
 The goal was to build a simple client–server setup where multiple bots connect, send messages, and interact using a lightweight message protocol.
 
 💡 What this project shows
